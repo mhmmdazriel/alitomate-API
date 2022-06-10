@@ -2,7 +2,7 @@
 
 - **Add Report :** 
 - **Method : POST**
-- **Body : ** 
+- Body :  
 ```
 {
   "nama" : "",
