@@ -1,6 +1,7 @@
 # alitomate-API
 
 ## Add Report :
+- **Endpoint :** ```/report```
 - **Method : POST**
 - Body :  
 ```
@@ -27,6 +28,7 @@
 ```
 
 ## Upload Image
+- **Endpoint :** ```/upload```
 - **Method : POST**
 - Body :
 ```
