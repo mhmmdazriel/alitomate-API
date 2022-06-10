@@ -1,6 +1,6 @@
 # alitomate-API
 
-#Add Report :
+##Add Report :
 - **Method : POST**
 - Body :  
 ```
@@ -26,7 +26,7 @@
 }
 ```
 
-#Upload Image
+##Upload Image
 - **Method : POST**
 - Body :
 ```
