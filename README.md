@@ -13,7 +13,7 @@
   
 }
 ```
-- **Response : **
+- Response : 
 ```
 {
   "userreport": {
@@ -28,13 +28,13 @@
 
 - **Upload Image**
 - **Method : POST**
-- **Body :**
+- Body :
 ```
 {
   "file" : ""
 }
 ```
-- **Response : **
+- Response : 
 ```
 {
   "message": "",
